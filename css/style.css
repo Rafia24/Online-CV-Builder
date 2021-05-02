@@ -1,0 +1,81 @@
+h1{
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+.head{
+	background-color: #eee;
+	min-height: 50px;
+}
+
+
+
+.banner{
+	top: 270px;
+	left: 460px;
+	position: absolute;
+
+	
+}
+
+.banner h3{
+	font-size: 80px;
+	color:#1a1b1c ;
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+}
+.banner h4{
+	font-size: 50px;
+	text-align: center;
+	color: #1a1b1c;
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+}
+
+.banner button {
+	transform: translate(180px,48px);
+	font-size: 28.7px;
+
+}
+
+.h12{
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	padding: 18px;
+	border-bottom: 5px solid black;
+}
+
+.h42{
+	padding-top: 7px;
+	font-size: 25px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	text-decoration:underline; 
+}
+
+input{
+	padding: 0 20px;
+	margin: 20px;
+}
+
+
+
+
+.btn{
+	transform: translateX(680px);
+}
+
+.heading{
+	background-color: 	#BECBCE;
+}
+
+.btn2{
+	font-size: 26px !important;
+	font-weight: bold;
+
+}
